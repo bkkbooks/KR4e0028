@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4e0028/krp/v1/juan/3
+seq: 3
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 跋張孟兼白石山房詩卷義門鄭淵古人未嘗欲隱也其忠不行然後放情肆志於烟霞泉石間蓋不得已也同邑張君孟兼築室白石山中為讀書之地其志豈欲隱哉蓋欲養其所學以適當世之用耳方今明良相逢千載一時孟兼負其所學幡然而起亦既施教成均主事祠曹幼學壯行之志將于是而展焉行見道德文章衣被後學上承聖天子之寵光是則白石山房將藉之而有餘榮其視指終南為捷徑者皆見棄於吾孟兼孰得孰失當必有辨之者矣
+  hash: sha256:e45e4a3df5caea3309f9ef0ad0dc2ead872b2c1a36dc98bbe98c03b53b0e4e70
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4e0028_WYG_003-1a, image: WYG1229/WYG1229-0467c.png}
+metadata:
+  title: 白石山房逸藁
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:16:47.026458'
+  juan_title: 跋張孟兼白石山房詩卷
+  source:
+    repository: kanripo
+    path: KR4e0028/KR4e0028_003.txt
+hash: sha256:49772b57053f4fb51916ca10fb9f7a29386a90e49a6bbb3955b0c55e5ab34442

@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4e0028/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部六
+  hash: sha256:859be96469d41da55102a3ac10450a959c78b164b3aa3213a08844c2a3407181
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4e0028_WYG_000-1a, image: WYG1229/WYG1229-0445a.png}
+body:
+  text: 白石山房逸藁别集類五明提要臣等謹案白石山房逸藁二巻明張孟兼撰孟兼名丁以字行浦江人洪武初徵為國子監學録與修元史以太常丞出為山西按察司僉事遷山東按察司副使以執法不阿為吳印所誣訐棄市明史文苑傳附載趙壎傳中藝文志載孟兼文集六巻焦竑國史經籍志亦同其本久已散佚近時有孟兼十一世孫思煌者始掇拾他書所載重編定為五巻而集内收他人唱和題贈之作幾十之七八孟兼著作仍寥寥無多此本不知何人所緝視思煌本較多數首疑尚出明人裒集故思煌未之見也孟兼與宋濓同里其被召也濂實薦之太祖與劉基論一時文人基稱宋濂第一而已居其次又其次即孟兼今雖不暏其全集而即二巻以觀其詩文温雅清麗具有體裁而龍驤虎步之氣亦隠然不可遏抑接迹二人良足驂駕基雖一時之論即以為定評可矣乾隆四十六年九月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:28e2dca5b258a01c384b764abbea6cd5c82fcdd39b19bd89c876a025aaa6cbfa
+metadata:
+  title: 白石山房逸藁
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:16:47.026458'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4e0028/KR4e0028_000.txt
+hash: sha256:2b2e96141b1c4988cc7673a7dc6697d34e0037253463cbb30e80b6c31ad98890

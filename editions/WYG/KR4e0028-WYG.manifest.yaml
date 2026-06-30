@@ -1,0 +1,82 @@
+canonical_identifier: bkk:krp/KR4e0028/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR4e0028/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 白石山房逸藁
+  date: '2015-08-25 00:16:47.026458'
+  source:
+    repository: kanripo
+    path: KR4e0028
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR4e0028_000-WYG.yaml, hash: 'sha256:2b2e96141b1c4988cc7673a7dc6697d34e0037253463cbb30e80b6c31ad98890'}
+  - {seq: 1, filename: KR4e0028_001-WYG.yaml, hash: 'sha256:a4c6ad92a0ce3190d7f35b16ac26f76a16b434a0b043ce102bd6279e3843a3d6'}
+  - {seq: 2, filename: KR4e0028_002-WYG.yaml, hash: 'sha256:95db9992e1c29eb403bef76f9b1aefa9f68b9533695df7a866da817e6891d810'}
+  - {seq: 3, filename: KR4e0028_003-WYG.yaml, hash: 'sha256:d189269e02c78271215c617db732505abf64ad38e91ae5dbd09024ae1178a174'}
+  - {seq: 4, filename: KR4e0028_004-WYG.yaml, hash: 'sha256:57a6ba1d5176a4e0bbdf658fbbf84824bf9c26489e2be78c43b603b982a908d4'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR4e0028_000-WYG.markers.yaml, hash: 'sha256:06c8ae24e015bf7c05fe015b45014550deab9f194d82f48f1fe91567e9e7d801'}
+  - {seq: 1, role: markers, filename: assets/KR4e0028_001-WYG.markers.yaml, hash: 'sha256:feaa8fc45b76bbf853b735453ff72d95399c9c63ac7832eaf1de2e23e5b57a0a'}
+  - {seq: 2, role: markers, filename: assets/KR4e0028_002-WYG.markers.yaml, hash: 'sha256:1be46c872c25774b1066f3573fdf44a0064b4ef025951b404ad76b08637fc134'}
+  - {seq: 3, role: markers, filename: assets/KR4e0028_003-WYG.markers.yaml, hash: 'sha256:58b243e003d68c6cb0f5839c3e8b999b06df276d75c472b034ee0269604fb66f'}
+  - {seq: 4, role: markers, filename: assets/KR4e0028_004-WYG.markers.yaml, hash: 'sha256:bc9b14a05d0c426497739c5ef09c5bbd66eabef46e18147eeac932f5ceb57eea'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR4e0028_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 338
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR4e0028_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 4993
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR4e0028_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 6833
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR4e0028_WYG_003-1a
+    span:
+    - body
+    - 0
+    - 178
+  label: 跋張孟兼白石山房詩卷
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR4e0028_WYG_004-1a
+    span:
+    - body
+    - 0
+    - 3013
+  label: 張孟兼集附録
+  type: section
+  level: 1
+hash: sha256:a26160f8d82f585028d172d7f97f45d629ed81454cc3bc49090d6bab020daede
