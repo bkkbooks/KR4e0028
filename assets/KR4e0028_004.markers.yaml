@@ -17,6 +17,7 @@ markers:
   - {type: substitution, offset: 8, original: 温, replacement: 溫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20795}}
   - {type: substitution, offset: 10, original: 兎, replacement: 兔, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16753}}
   - {type: punctuation, offset: 13, content: (, id: KR4e0028_krp_004-bkkpn1}
+  - {type: voice, offset: 13, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 15, content: /, id: KR4e0028_krp_004-bkkpn2}
   - {type: punctuation, offset: 15, content: ), id: KR4e0028_krp_004-bkkpn3}
   - {type: 'kr:newline', offset: 15, content: '
@@ -1064,4 +1065,4 @@ markers:
 
       ', id: KR4e0028_krp_004-bkkkrnewl198}
   back: []
-hash: sha256:a7b046a05b2b852cf72745d61210e3db79e46c96e3d3e72f8f0ff04785d638eb
+hash: sha256:76d00f9a951967437dd17018969cab18952245903b24a43b0433991c2c0a389c
